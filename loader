@@ -1,0 +1,10 @@
+if game.PlaceId == 6284583030 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Sxdness0001/emerald-pet-sim/main/petsim'))()
+elseif game.PlaceId == 155615604 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Sxdness0001/emerald-part/main/PRISON%20LIFE'))()
+
+else
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/Sxdness0001/universal/main/universal'))()
+
+end
